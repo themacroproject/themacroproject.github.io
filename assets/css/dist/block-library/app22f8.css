@@ -13737,7 +13737,7 @@ h6,
   right: 50%;
   top: 50%;
   line-height: 0;
-  content: url(../images/icon-arrow-prev.svg);
+  content: url(../../../images/icons/icon-arrow-next.svg);
 }
 .wp-block-copia-gutenberg-blocks-copia-reviews .swiper-button-prev:after:hover, .wp-block-copia-gutenberg-blocks-copia-reviews .swiper-button-next:after:hover {
   background-color: #e9ebec;
@@ -13756,7 +13756,7 @@ h6,
   }
 }
 .wp-block-copia-gutenberg-blocks-copia-reviews .swiper-button-prev:after {
-  content: url(../images/icon-arrow-prev.svg);
+  content: url(../../../images/icons/icon-arrow-prev.svg);
 }
 @media (min-width: 768px) {
   .wp-block-copia-gutenberg-blocks-copia-reviews .swiper-button-next {
@@ -13769,7 +13769,7 @@ h6,
   }
 }
 .wp-block-copia-gutenberg-blocks-copia-reviews .swiper-button-next:after {
-  content: url(../images/icon-arrow-next.svg);
+  content: url(../../../images/icons/icon-arrow-next.svg);
 }
 .wp-block-copia-gutenberg-blocks-copia-reviews .review__heading {
   margin-bottom: 1rem;
