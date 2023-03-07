@@ -29,4 +29,4 @@ At their core, macro keyboards are designed to allow users to assign specific ac
 ## Documentation
 
 
-You can find the complete Airtest documentation on [readthedocs](https://tmp-docs.readthedocs.io/en/latest/).
+You can find the complete documentation on [readthedocs](https://tmp-docs.readthedocs.io/en/latest/).
