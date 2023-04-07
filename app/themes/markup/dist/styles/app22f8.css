@@ -16438,7 +16438,7 @@ section.calendar table thead th {
 }
 .review__image img {
   height: 49px;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 .review__name p {
   margin-bottom: 0;
